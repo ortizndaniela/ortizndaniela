@@ -3,7 +3,7 @@
 
 I am a mexican analyst and project leader with more than 10 years of experience that is returning to its roots as a code developer to improve my vision to apply new technologies in the solutions we generate for our customers.
 
-# Estos son los 5 comandos
+## Estos son los 5 comandos
 | comando | Descripción |
 | ------- | ----------- |
 | ls | lista el contenido de un directorio |
