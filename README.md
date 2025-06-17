@@ -2,7 +2,7 @@
 ## I develop all kind of software. 👋
 
 My role involver speaking with clients to understand their needs.  After that, I return to the office to analyze the information, design the best solution, and - together with my team - bring it to  life.
-What I enjoy most... is seeing how our software actually solves real rpoblems for people.
+What I enjoy most 😃 is seeing how our software actually solves real problems for people.
 
 ## Estos son los 5 comandos
 | comando | Descripción |
