@@ -1,7 +1,8 @@
 # Hello, I'm Daniela Ortiz
-## I help companies to create technological tools or systems that help them execute and solve all types of tasks, as well as automate processes. 👋
+## I develop all kind of software. 👋
 
-I am a mexican analyst and project leader with more than 10 years of experience that is returning to its roots as a code developer to improve my vision to apply new technologies in the solutions we generate for our customers.
+My role involver speaking with clients to understand ther needs.  After that, I return to the office to analyze the information, design the best solution, and - together with my team - bring it to  life.
+What I enjoy most... is seeing how our software actually solves real rpoblems for people.
 
 ## Estos son los 5 comandos
 | comando | Descripción |
